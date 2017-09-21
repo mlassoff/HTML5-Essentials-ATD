@@ -1,0 +1,16 @@
+ h1 {
+                color: #000097;
+                font-size: 3em;
+                font-family: Helvetica, Arial, sans-serif;
+                font-weight: bold;
+                text-align: center;
+                font-variant: small-caps;
+            } 
+            
+h2  {
+                color: rgb(175,50,200);
+            }
+            
+p {
+                text-align: justify;
+            }
